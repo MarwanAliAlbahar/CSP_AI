@@ -8,7 +8,6 @@ import java.util.Random;
 import java.util.Stack;
 
 import org.omg.PortableServer.IdAssignmentPolicy;
-// Author name : marwan albahar //
 
 public class JavaProjectDFSorBFS {
 	Stack<StackType> stack = new Stack<StackType>();
